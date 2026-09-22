@@ -1,1 +1,1 @@
-# CPE342-Operating-System
+# CPE365-Intelligent Robot Programming
